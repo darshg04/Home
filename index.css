@@ -1,0 +1,48 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing:border box;
+}
+
+html,body{
+    font-family: "Baloo Bhai 2", serif;
+    background-color: salmon;
+    height:100vh;
+    width:100vw;
+}
+
+header{
+    background-color: rgb(214, 169, 255);
+    height: 10vh;
+    width: 200%;
+    display: flex;
+    align-items: center;
+}
+
+#header{
+    display: flex;
+}
+
+.nav{
+    font-weight: 500;
+    text-align: center;
+    height: 40px;
+    width: 130px;
+    color: blanchedalmond;
+    font-size: 140%;
+    margin-left: 30px;
+}
+
+img{
+    height: 50%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+}
+
+.nav a{
+    color: blanchedalmond;
+    text-decoration: none;
+}
+
+ 
